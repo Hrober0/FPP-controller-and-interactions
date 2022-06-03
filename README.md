@@ -7,8 +7,8 @@ Features:
 - FPP controller
 - Selecting objects
 - Lifting, carrying, and throwing items
-- A used tool such as a broom and mop
-- A system that allows you to arrange things at zones automatically
+- Useable tool such as a broom and a mop
+- System that allows you to arrange things at zones automatically
 - Paths for rats and generic system of their behaviors
 
 Game is available on: [itch.io/hrober/rat-jumble](https://hrober.itch.io/rat-jumble)
