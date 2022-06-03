@@ -1,0 +1,33 @@
+{
+    "name": "UIControls",
+    "maps": [
+        {
+            "name": "EscapeMenu",
+            "id": "60ae8e91-2878-41a9-9a62-78f8e2e47387",
+            "actions": [
+                {
+                    "name": "ChangeActive",
+                    "type": "PassThrough",
+                    "id": "b830f44f-67c9-46b2-9c4a-25d064b711ac",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "Press"
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "fab907d4-d9af-4416-becd-7490e66d4874",
+                    "path": "<Keyboard>/escape",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "ChangeActive",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
