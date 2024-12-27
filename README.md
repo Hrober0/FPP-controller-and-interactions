@@ -1,4 +1,6 @@
-# FPP controller and interactions with various objects
+# FPP player controller
+
+FPP player controller featuring a flexible object interaction system, enabling seamless picking up, moving, and manipulating of objects with realistic physics and intuitive controls.
 
 My code from game name Rat jumple <br>
 Game was made on Brackeys Game Jam 2021.2 in week.
